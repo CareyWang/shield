@@ -1,0 +1,9 @@
+{
+    "name": "careywong/shield",
+    "description": "Schedule your tasks right from the code.",
+    "type": "project",
+    "require": {
+        "lavary/crunz": "^2.1"
+    },
+    "license": "MIT"
+}
